@@ -1,13 +1,15 @@
 /* CSS Document */
 
-.hero {
-  position: relative;
-}
-
-/* video */
 body{
 	font-family: 'Sawarabi Mincho', serif;
-  background-color: white;
+  background-color: #edede8;
+  color: #616153;
+}
+a{
+  text-decoration: none;
+}
+a:visited{
+  color: #616153;
 }
 .main_visual {
   position: relative;
